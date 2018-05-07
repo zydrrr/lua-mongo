@@ -12,6 +12,7 @@ make win
 ```
 or
 ```
+先编译lua-bson 将生成的so 拷贝到当前目录 后编译lua-mongo 运行test(lua 版本5.2以上)
 make linux
 ```
 
